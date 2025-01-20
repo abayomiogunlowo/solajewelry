@@ -17,7 +17,7 @@ const Header = () => {
           <h2>
             <Link to="/" className="text-decoration-none">
               <Navbar.Brand className="text-secondary">
-                Lizdev Collection
+                Soljulian Jewelry
               </Navbar.Brand>
             </Link>
           </h2>
